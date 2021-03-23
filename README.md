@@ -1,2 +1,2 @@
 # StrokePrediction
-StrokePrediction using Decision Tree, Random Forest, K Neighbors and Neural Nets
+StrokePrediction using Decision Tree, Random Forest, XGBoost Classifier,K Neighbors and Neural Nets
