@@ -1,0 +1,11 @@
+
+.center{
+    align-items: center;
+    }
+.main{
+    background-image: url("./Stroke.png");
+    background-repeat: no-repeat;
+    height: 500 px !important;
+    width: 500 px !important;
+    background-size: cover;
+}
