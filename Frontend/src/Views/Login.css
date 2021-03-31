@@ -1,11 +1,16 @@
+.container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
 
-.center{
-    align-items: center;
-    }
-.main{
-    background-image: url("./Stroke.png");
-    background-repeat: no-repeat;
-    height: 500 px !important;
-    width: 500 px !important;
-    background-size: cover;
+.Login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: url('Stroke.png');
+  background-repeat: no-repeat;
+  align-items: center;
+  min-height: 50vh;
+  min-width:44%;
 }
